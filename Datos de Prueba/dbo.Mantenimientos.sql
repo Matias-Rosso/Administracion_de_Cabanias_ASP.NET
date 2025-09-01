@@ -1,0 +1,23 @@
+GO
+SET DATEFORMAT DMY
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/01/02', N'Descripcion1', N'TecnicoUno', 100, N'CabaniaUno')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/01/02', N'Descripcion2', N'TecnicoUno', 150, N'CabaniaUno')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/01/02', N'Descripcion3', N'TecnicoUno', 75, N'CabaniaUno')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/06/13', N'Descripcion4', N'TecnicoDos', 50, N'CabaniaDos')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/03/22', N'Descripcion5', N'TecnicoDos', 75, N'CabaniaDos')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/11/21', N'Descripcion6', N'TecnicoDos', 100, N'CabaniaTres')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/09/07', N'Descripcion7', N'TecnicoUno', 125, N'CabaniaCuatro')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/12/01', N'Descripcion8', N'TecnicoTres', 200, N'CabaniaCinco')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/04/15', N'Descripcion9', N'TecnicoTres', 250, N'CabaniaCinco')
+INSERT [dbo].[Mantenimientos] ([Fecha], [Descripcion], [Tecnico], [Costo], [CabaniaNombre])
+	VALUES ('2022/05/23', N'Descripcion10', N'TecnicoTres', 150, N'CabaniaCinco')
+
