@@ -1,0 +1,60 @@
+﻿@model GestionHotel.WebApplication.Models.CabaniaModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Cabania</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Descripción
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            Tipo
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TipoNombre)
+        </dd>
+        <dt class = "col-sm-2">
+            Costo por Huésped
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TipoCostoPorHuesped)
+        </dd>
+        <dt class = "col-sm-2">
+            Jacuzzi
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PoseeJacuzzi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Habilitada)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Habilitada)
+        </dd>
+        <dt class = "col-sm-2">
+            Número de Habitación
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumeroHabitacion)
+        </dd>
+        <dt class = "col-sm-2">
+            Capacidad
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaxCupos)
+        </dd>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Volver a la Lista</a>
+</div>

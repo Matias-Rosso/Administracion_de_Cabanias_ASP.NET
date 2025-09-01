@@ -1,0 +1,45 @@
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.deps.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.csproj.AssemblyReference.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.AssemblyInfoInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.AssemblyInfo.cs
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.csproj.CoreCompileInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.csproj.CopyComplete
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\refint\GestionHotel.DTOs.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\ref\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionH.08CBD689.Up2Date
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\refint\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.DTOs\obj\Debug\net7.0\ref\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionH.08CBD689.Up2Date
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\refint\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DTOs\obj\Debug\net7.0\ref\GestionHotel.DTOs.dll

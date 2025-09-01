@@ -1,0 +1,40 @@
+﻿@model GestionHotel.WebApplication.Models.TipoModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles</h1>
+
+@if (ViewBag.NombreError != null)
+{
+        <div class="alert alert-danger" role="alert">
+        @ViewBag.NombreError
+    </div>
+} else
+{
+    <div>
+        <h4>Tipo</h4>
+        <hr />
+        <dl class="row">
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Descripcion)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.CostoPorHuesped)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.CostoPorHuesped)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.Nombre">Editar</a> |
+        <a asp-action="Index">Volver a la Lista</a>
+    </div>
+}
+
+

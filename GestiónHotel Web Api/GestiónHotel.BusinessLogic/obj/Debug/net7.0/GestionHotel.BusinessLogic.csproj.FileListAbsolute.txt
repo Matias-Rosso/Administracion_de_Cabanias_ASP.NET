@@ -1,0 +1,72 @@
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.deps.json
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.AssemblyReference.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfoInputs.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfo.cs
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\refint\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio\GestiónHotel.BusinessLogic\GestiónHotel.BusinessLogic\obj\Debug\net7.0\ref\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.deps.json
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.AssemblyReference.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfoInputs.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfo.cs
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\refint\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio\GestiónHotel\GestiónHotel.BusinessLogic\obj\Debug\net7.0\ref\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.deps.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.AssemblyReference.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfoInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfo.cs
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\refint\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\ref\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\refint\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestiónHotel.BusinessLogic\obj\Debug\net7.0\ref\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\refint\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestiónHotel.BusinessLogic\obj\Debug\net7.0\ref\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\refint\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.BusinessLogic\obj\Debug\net7.0\ref\GestionHotel.BusinessLogic.dll

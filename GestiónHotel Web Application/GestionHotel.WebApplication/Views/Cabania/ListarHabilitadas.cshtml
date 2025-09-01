@@ -1,0 +1,90 @@
+﻿@model IEnumerable<GestionHotel.WebApplication.Models.CabaniaModel>
+
+@{
+    ViewData["Title"] = "ListarHabilitadas";
+}
+
+<h1>Cabañas Habilitadas</h1>
+
+
+@if (Model != null)
+{
+    <p>
+        <a asp-action="Create">Añadir cabaña</a>
+    </p>
+}
+@if (Model == null || Model.Count() == 0)
+{
+    <div class="alert alert-warning" role="alert">
+        No se encontraron cabañas habilitadas.
+    </div>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th>
+                    Descripción
+                </th>
+                <th>
+                    Tipo
+                </th>
+                <th>
+                    Costo por Persona
+                </th>
+                <th>
+                    Jacuzzi
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Habilitada)
+                </th>
+                <th>
+                    Número de Habitación
+                </th>
+                <th>
+                    Capacidad
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoNombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoCostoPorHuesped)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PoseeJacuzzi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Habilitada)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NumeroHabitacion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MaxCupos)
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-nombre="@item.Nombre">Detalles</a> |
+                        <a asp-action="Delete" asp-route-nombre="@item.Nombre">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

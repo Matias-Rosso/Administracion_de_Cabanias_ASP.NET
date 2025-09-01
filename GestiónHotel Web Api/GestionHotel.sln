@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestionHotel.BusinessLogic", "GestiónHotel.BusinessLogic\GestionHotel.BusinessLogic.csproj", "{0B9B6FE9-C005-42C3-8572-42DB3422D92A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestionHotel.DataAccess", "DataAccess\GestionHotel.DataAccess.csproj", "{AA56434E-77B4-4461-AF36-D673B945251C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A} = {0B9B6FE9-C005-42C3-8572-42DB3422D92A}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestionHotel.WebApi", "GestionHotel.WebApi\GestionHotel.WebApi.csproj", "{7491ED04-B555-4CC0-B1A3-C1EC9272838E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A} = {0B9B6FE9-C005-42C3-8572-42DB3422D92A}
+		{AA56434E-77B4-4461-AF36-D673B945251C} = {AA56434E-77B4-4461-AF36-D673B945251C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionHotel.ApplicationLogic", "GestionHotel.ApplicationLogic\GestionHotel.ApplicationLogic.csproj", "{E102AEBB-B9A1-4DF7-8A92-5791E6C38DE2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A} = {0B9B6FE9-C005-42C3-8572-42DB3422D92A}
+		{8E0B7590-F6C5-43DD-A9E6-077F0C52F166} = {8E0B7590-F6C5-43DD-A9E6-077F0C52F166}
+		{AA56434E-77B4-4461-AF36-D673B945251C} = {AA56434E-77B4-4461-AF36-D673B945251C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionHotel.DTOs", "GestionHotel.DTOs\GestionHotel.DTOs.csproj", "{8E0B7590-F6C5-43DD-A9E6-077F0C52F166}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A} = {0B9B6FE9-C005-42C3-8572-42DB3422D92A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9B6FE9-C005-42C3-8572-42DB3422D92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA56434E-77B4-4461-AF36-D673B945251C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA56434E-77B4-4461-AF36-D673B945251C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA56434E-77B4-4461-AF36-D673B945251C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA56434E-77B4-4461-AF36-D673B945251C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7491ED04-B555-4CC0-B1A3-C1EC9272838E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7491ED04-B555-4CC0-B1A3-C1EC9272838E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7491ED04-B555-4CC0-B1A3-C1EC9272838E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7491ED04-B555-4CC0-B1A3-C1EC9272838E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E102AEBB-B9A1-4DF7-8A92-5791E6C38DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E102AEBB-B9A1-4DF7-8A92-5791E6C38DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E102AEBB-B9A1-4DF7-8A92-5791E6C38DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E102AEBB-B9A1-4DF7-8A92-5791E6C38DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0B7590-F6C5-43DD-A9E6-077F0C52F166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0B7590-F6C5-43DD-A9E6-077F0C52F166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0B7590-F6C5-43DD-A9E6-077F0C52F166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0B7590-F6C5-43DD-A9E6-077F0C52F166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8872E400-0EE6-44A5-A743-10A80F82223F}
+	EndGlobalSection
+EndGlobal

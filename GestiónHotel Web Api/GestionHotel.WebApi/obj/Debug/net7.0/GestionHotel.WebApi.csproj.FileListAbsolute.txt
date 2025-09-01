@@ -1,0 +1,272 @@
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\appsettings.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.exe
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.deps.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.runtimeconfig.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.ApplicationLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.ApplicationLogic.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.csproj.AssemblyReference.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.AssemblyInfoInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.AssemblyInfo.cs
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.csproj.CoreCompileInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.GestionHotel.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GestionHotel.WebApi.props
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GestionHotel.WebApi.props
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GestionHotel.WebApi.props
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\scopedcss\bundle\GestionHotel.WebApi.styles.css
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.csproj.CopyComplete
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\refint\GestionHotel.WebApi.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.genruntimeconfig.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\ref\GestionHotel.WebApi.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Scrutor.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.xml
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.xml
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\appsettings.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.staticwebassets.endpoints.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.exe
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.runtimeconfig.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.xml
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Scrutor.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.ApplicationLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.ApplicationLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\rpswa.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\rjimswa.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\scopedcss\bundle\GestionHotel.WebApi.styles.css
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.build.json.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionH.7DD870FC.Up2Date
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\refint\GestionHotel.WebApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.xml
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.genruntimeconfig.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\obj\Debug\net7.0\ref\GestionHotel.WebApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Humanizer.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\GestionHotel.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\appsettings.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.staticwebassets.endpoints.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.exe
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.runtimeconfig.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.WebApi.xml
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Humanizer.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Scrutor.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.ApplicationLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DTOs.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.ApplicationLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\bin\Debug\net7.0\GestionHotel.DTOs.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\rpswa.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\rjimswa.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\scopedcss\bundle\GestionHotel.WebApi.styles.css
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.build.json.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionH.7DD870FC.Up2Date
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\refint\GestionHotel.WebApi.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.xml
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\GestionHotel.WebApi.genruntimeconfig.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.WebApi\obj\Debug\net7.0\ref\GestionHotel.WebApi.dll

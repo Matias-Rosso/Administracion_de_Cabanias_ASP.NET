@@ -1,0 +1,70 @@
+﻿@model IEnumerable<GestionHotel.WebApplication.Models.MantenimientoModel>
+
+@{
+    ViewData["Title"] = "ListarEntreDosFechas";
+}
+
+<h1>Mantenimientos de @ViewBag.nombreCabania</h1>
+<h4>@ViewBag.fecha1.ToShortDateString() - @ViewBag.fecha2.ToShortDateString()</h4>
+
+@if (Model == null || Model.Count() == 0)
+{
+    <div class="alert alert-warning" role="alert">
+        No existe ningún mantenimiento en la base de datos.
+    </div>
+
+
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fecha)
+                </th>
+                <th>
+                    Hora
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Tecnico)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Costo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CabaniaNombre)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Fecha.ToShortDateString()
+                    </td>
+                    <td>
+                        @item.Fecha.ToShortTimeString()
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tecnico)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Costo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CabaniaNombre)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

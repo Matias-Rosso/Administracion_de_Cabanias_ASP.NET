@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\controllers\\tipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\controllers\\tipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\views\\cabania\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\views\\cabania\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\views\\cabania\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\views\\cabania\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\controllers\\cabaniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\controllers\\cabaniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\views\\tipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\views\\tipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\controllers\\mantenimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|e:\\escritorio\\ort\\semestre 3\\programaci\u00F3n 3\\p3 obligatorio 2\\gesti\u00F3nhotel web application\\gestionhotel.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B0FFA4-673F-4A66-B592-9C686C0F3E61}|GestionHotel.WebApplication\\GestionHotel.WebApplication.csproj|solutionrelative:gestionhotel.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Views\\Usuario\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T20:56:50.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Cabania\\Details.cshtml",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Views\\Cabania\\Details.cshtml",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Cabania\\Details.cshtml",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Views\\Cabania\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T01:54:19.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Cabania\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Views\\Cabania\\Delete.cshtml",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Cabania\\Delete.cshtml",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Views\\Cabania\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T01:54:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Tipo\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Views\\Tipo\\Index.cshtml",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Tipo\\Index.cshtml",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Views\\Tipo\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T20:35:29.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Program.cs",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Program.cs",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T22:05:09.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T21:48:27.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Controllers\\UsuarioController.cs",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T22:00:27.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoController.cs",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\TipoController.cs",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Controllers\\TipoController.cs",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\TipoController.cs",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Controllers\\TipoController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowE4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T19:54:46.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CabaniaController.cs",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\CabaniaController.cs",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Controllers\\CabaniaController.cs",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\CabaniaController.cs",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Controllers\\CabaniaController.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:05:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MantenimientoController.cs",
+              "DocumentMoniker": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\MantenimientoController.cs",
+              "RelativeDocumentMoniker": "GestionHotel.WebApplication\\Controllers\\MantenimientoController.cs",
+              "ToolTip": "E:\\Escritorio\\ort\\semestre 3\\Programaci\u00F3n 3\\p3 obligatorio 2\\Gesti\u00F3nHotel Web Application\\GestionHotel.WebApplication\\Controllers\\MantenimientoController.cs",
+              "RelativeToolTip": "GestionHotel.WebApplication\\Controllers\\MantenimientoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:16:47.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

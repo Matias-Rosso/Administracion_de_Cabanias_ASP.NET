@@ -1,0 +1,99 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+    <div>
+        <br>
+        <h4>Listar cabañas</h4>
+        <form action="/Cabania/Index" method="post">
+
+            <button type="submit">Listar Cabañas</button>
+        </form>
+        <br>
+        <h4>Listar cabañas habilitadas</h4>
+        <form action="/Cabania/ListarHabilitadas" method="post">
+
+            <button type="submit">Listar Cabañas Habilitadas</button>
+        </form>
+        <br>
+        <h4>Listar cabañas por tipo</h4>
+        <form action="/Cabania/BuscarPorTipo" method="post">
+            @if (ViewBag.Tipos == null)
+            {
+                <div class="alert alert-warning" role="alert">
+                    No se encontraron tipos.
+                </div>
+            }
+            else
+            {
+                <select id="nombreTipo" name="nombreTipo">
+                    @foreach (TipoModel tipo in ViewBag.Tipos)
+                        {
+                            <option value=@tipo.Nombre>@tipo.Nombre</option>
+                        }
+                </select>
+
+                <button type="submit">Buscar</button>
+            }
+        </form>
+        <br>
+        <h4>Buscar cabañas por nombre</h4>
+        <form action="/Cabania/BuscarPorNombre" method="post">
+            <label for=" nombre">Nombre</label>
+            <input type="text" id="nombre" name="nombre">
+
+            <button type="submit">Buscar</button>
+        </form>
+        <br>
+        <h4>Listar cabañas por cupos</h4>
+        <form action="/Cabania/BuscarPorCupos" method="post">
+            <label for=" cupos">Cupos</label>
+            <input type="number" id="cupos" name="cupos">
+
+            <button type="submit">Buscar</button>
+        </form>
+        <br>
+        <h4>Listar tipos de cabaña</h4>
+        <form action="/Tipo/Index" method="post">
+
+            <button type="submit">Listar Tipos</button>
+        </form>
+        <h4>Buscar tipo por nombre específico</h4>
+        <form action="/Tipo/Details" method="post">
+            <label for=" nombre">Nombre</label>
+            <input type="text" id="nombre" name="nombre">
+
+            <button type="submit">Buscar</button>
+        </form>
+        <h4>Listar todos los mantenimientos a una cabaña entre dos fechas</h4>
+        <form action="/Mantenimiento/ListarEntreDosFechas" method="post">
+
+
+        @if (ViewBag.Cabanias == null)
+            {
+                <div class="alert alert-warning" role="alert">
+                    No se encontraron cabañas.
+                </div>
+            }
+            else
+            {
+                <select id="nombreCabania" name="nombreCabania">
+                    @foreach (CabaniaModel cabania in ViewBag.Cabanias)
+                    {
+                    <option value=@cabania.Nombre>@cabania.Nombre</option>
+                    }
+                </select>
+                <input type="date" id="fecha1" name="fecha1" />
+                <input type="date" id="fecha2" name="fecha2" />
+
+                <button type="submit">Buscar</button>
+            }
+
+        </form>
+        <br />
+        <br />
+        <div>
+            <a asp-controller="Usuario" asp-action="Login">Cerrar Sesión</a>
+        </div>
+    </div>

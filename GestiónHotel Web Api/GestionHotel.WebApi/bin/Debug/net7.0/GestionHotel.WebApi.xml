@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GestionHotel.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.GetCabanias">
+            <summary>
+            Obtiene todos las cabañas que hay en la base de datos actualmente
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.GetCabania(System.String)">
+            <summary>
+            Obtiene la cabaña con el nombre especificado
+            </summary>
+            <param name="cabaniaNombre">Nombre de la cabaña.</param>
+            <returns>Retorna la cabaña especificada</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.GetCabaniasHabilitadas">
+            <summary>
+            Obtiene todos las cabañas habilitadas que hay en la base de datos actualmente
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.GetCabaniasPorCupos(System.Int32)">
+            <summary>
+            Obtiene todos las cabañas que tengan al menos los cupos especificados
+            </summary>
+            <param name="cupos">Cantidad de cupos.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.GetCabaniasPorNombre(System.String)">
+            <summary>
+            Obtiene todos las cabañas que contengan el texto especificado en el nombre
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.GetCabaniasPorTipo(System.String)">
+            <summary>
+            Obtiene todos las cabañas del tipo especificado
+            </summary>
+            <param name="tipoNombre">Nombre del tipo.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.CrearCabania(GestionHotel.DTOs.CabaniaDTO)">
+            <summary>
+            Creacion de cabaña en la base de datos
+            </summary>
+            <param name="cabania">Cabaña completa.</param>
+            <returns>Retorna la cabaña recién creada</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.EditarCabania(GestionHotel.DTOs.CabaniaDTO,System.String)">
+            <summary>
+            Actualización de cabaña en la base de datos
+            </summary>
+            <param name="cabania">Cabaña completa.</param>
+            <param name="cabaniaNombre">Nombre de la cabaña a actualizar.</param>
+            <returns>Retorna la cabaña recién editada</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.CabaniaController.BorrarCabania(System.String)">
+            <summary>
+            Eliminación de cabaña en la base de datos
+            </summary>
+            <param name="cabaniaNombre">Nombre de la cabaña a eliminar.</param>
+            <returns>Retorna confirmación de que la cabaña fue eliminada.</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.LoginController.Login(GestionHotel.DTOs.UsuarioDTO)">
+            <summary>
+            Metodo para conseguir Token dado un usuario
+            </summary>
+            <param name="usuarioDTO">Credenciales de usuario que desea iniciar sesion</param>
+            <returns>Token generado</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.MantenimientoController.GetMantenimientosEntreDosFechas(System.String,System.DateTime,System.DateTime)">
+            <summary>
+            Obtiene todos los mantenimientos a una cabaña entre dos fechas
+            </summary>
+            <param name="nombreCabania">Nombre de la cabaña.</param>
+            <param name="fecha1">Primera fecha.</param>
+            <param name="fecha2">Segunda fecha.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.MantenimientoController.GetMantenimiento(System.Int32)">
+            <summary>
+            Obtiene el mantenimiento con el id especificado
+            </summary>
+            <param name="mantenimientoId">Id del mantenimiento.</param>
+            <returns>Retorna el mantenimiento especificado</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.MantenimientoController.CrearMantenimiento(GestionHotel.DTOs.MantenimientoDTO)">
+            <summary>
+            Creacion de mantenimiento en la base de datos
+            </summary>
+            <param name="mantenimiento">Mantenimiento completo.</param>
+            <returns>Retorna el mantenimiento recién creado</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.MantenimientoController.EditarMantenimiento(GestionHotel.DTOs.MantenimientoDTO,System.Int32)">
+            <summary>
+            Actualización de mantenimiento en la base de datos
+            </summary>
+            <param name="mantenimiento">Mantenimiento completo.</param>
+            <param name="mantenimientoId">Id del mantenimiento a actualizar.</param>
+            <returns>Retorna el mantenimiento recién editado</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.MantenimientoController.BorrarMantenimiento(System.Int32)">
+            <summary>
+            Eliminación de mantenimiento en la base de datos
+            </summary>
+            <param name="mantenimientoId">Nombre del mantenimiento a eliminar.</param>
+            <returns>Retorna confirmación de que el mantenimiento fue eliminado.</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.TipoController.GetTipos">
+            <summary>
+            Obtiene todos los tipos que hay en la base de datos actualmente
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.TipoController.GetTipo(System.String)">
+            <summary>
+            Obtiene el tipo con el nombre especificado
+            </summary>
+            <param name="tipoNombre">Nombre del tipo.</param>
+            <returns>Retorna el tipo especificado</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.TipoController.CrearTipo(GestionHotel.DTOs.TipoDTO)">
+            <summary>
+            Creacion de tipo en la base de datos
+            </summary>
+            <param name="tipo">Tipo completo.</param>
+            <returns>Retorna el tipo recién creado</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.TipoController.EditarTipo(GestionHotel.DTOs.TipoDTO,System.String)">
+            <summary>
+            Actualización de tipo en la base de datos
+            </summary>
+            <param name="tipo">Tipo completo.</param>
+            <param name="tipoNombre">Nombre del tipo a actualizar.</param>
+            <returns>Retorna el tipo recién editado</returns>
+        </member>
+        <member name="M:GestionHotel.WebApi.Controllers.TipoController.BorrarTipo(System.String)">
+            <summary>
+            Eliminación de tipo en la base de datos
+            </summary>
+            <param name="tipoNombre">Nombre del tipo a eliminar.</param>
+            <returns>Retorna confirmación de que el tipo fue eliminado.</returns>
+        </member>
+    </members>
+</doc>

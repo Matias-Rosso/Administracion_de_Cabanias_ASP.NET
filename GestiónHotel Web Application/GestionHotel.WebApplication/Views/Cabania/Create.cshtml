@@ -1,0 +1,79 @@
+﻿@model GestionHotel.WebApplication.Models.CabaniaModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear</h1>
+
+<h4>Cabaña</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoNombre" class="control-label"></label>
+                @if (ViewBag.Tipos == null)
+                {
+                    <div class="alert alert-warning" role="alert">
+                        No se encontraron tipos.
+                    </div>
+                }
+                else
+                {
+                    <select id="TipoNombre" name="TipoNombre">
+                        @foreach (TipoModel tipo in ViewBag.Tipos)
+                        {
+                            <option value=@tipo.Nombre>@tipo.Nombre</option>
+                        }
+                    </select>
+                }
+
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="PoseeJacuzzi" /> @Html.DisplayNameFor(model => model.PoseeJacuzzi)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Habilitada" /> @Html.DisplayNameFor(model => model.Habilitada)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaxCupos" class="control-label"></label>
+                <input asp-for="MaxCupos" class="form-control" />
+                <span asp-validation-for="MaxCupos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@if (ViewBag.NombreError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.NombreError
+    </div>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,76 @@
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.deps.json
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.runtimeconfig.json
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.AssemblyReference.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfoInputs.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfo.cs
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.CoreCompileInputs.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.CopyComplete
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\refint\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.genruntimeconfig.cache
+E:\Escritorio\p3 obligatorio\GestiónHotel\DataAccess\obj\Debug\net7.0\ref\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.AssemblyReference.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfoInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfo.cs
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.CoreCompileInputs.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\refint\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.deps.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.runtimeconfig.json
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.CopyComplete
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.genruntimeconfig.cache
+E:\Escritorio\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\ref\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.runtimeconfig.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionH.D009257E.Up2Date
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\refint\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.genruntimeconfig.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel 2\DataAccess\obj\Debug\net7.0\ref\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.deps.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.runtimeconfig.json
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\bin\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\bin\Debug\net7.0\GestionHotel.BusinessLogic.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionH.D009257E.Up2Date
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\refint\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.pdb
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.genruntimeconfig.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\DataAccess\obj\Debug\net7.0\ref\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.AssemblyReference.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfoInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.AssemblyInfo.cs
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.csproj.CoreCompileInputs.cache
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\refint\GestionHotel.DataAccess.dll
+E:\Escritorio\ort\semestre 3\Programación 3\p3 obligatorio 2\GestiónHotel Web Api\GestionHotel.DataAccess\obj\Debug\net7.0\GestionHotel.DataAccess.pdb
